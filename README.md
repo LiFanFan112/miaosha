@@ -24,12 +24,12 @@ viewobject -> 用于前端交互的模型对象
 
 5 使用聚合模型在itemModel加入PromoModel promoModel，若不为空表示其有未结束的秒杀活动；在orderModel中加入promoId，若不为空，则以秒杀方式下单
 
-## 秒杀界面展示
+## 促销界面展示
 
-### 秒杀开始前-倒计时
+### 促销开始前-倒计时
 <img src="https://github.com/LiFanFan112/miaosha/blob/master/1.png" alt="秒杀1" height=700/>
 
-### 秒杀开始后-抢购
+### 促销开始后-抢购
 
 <img src="https://github.com/LiFanFan112/miaosha/blob/master/2.png" alt="秒杀1" height=700/>
 
